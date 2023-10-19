@@ -1,8 +1,9 @@
-package main.java.controller;
+package controller;
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
-import main.java.model.SocialMediaPost;
+
+import model.SocialMediaPost;
 
 
 public class SocialMediaAnalyzer{

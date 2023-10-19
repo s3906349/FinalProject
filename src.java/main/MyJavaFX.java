@@ -1,13 +1,13 @@
     import java.io.BufferedReader;
-    import java.io.FileReader;
-    import java.io.IOException;
-    import java.text.ParseException;
-    import java.text.SimpleDateFormat;
-    import java.util.ArrayList;
-    import java.util.Date;
+import java.io.FileReader;
+import java.io.IOException;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Date;
 
-import main.java.controller.SocialMediaAnalyzer;
-import main.java.model.SocialMediaPost;
+import controller.SocialMediaAnalyzer;
+import model.SocialMediaPost;
 
     public class MyJavaFX {
         public static void main(String[] args) {

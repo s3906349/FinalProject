@@ -1,4 +1,4 @@
-package main.java.controller;
+package controller;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -7,7 +7,7 @@ import java.util.Date;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import main.java.model.SocialMediaPost;
+import model.SocialMediaPost;
 
 public class PostManagement {
     public void addPost(ArrayList<SocialMediaPost> posts, Scanner add) {
