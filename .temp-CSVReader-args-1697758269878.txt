@@ -1,0 +1,9 @@
+-XstartOnFirstThread
+--module-path
+javafx-sdk-17.0.8/lib
+--add-modules=javafx.controls,javafx.fxml,javafx.graphics,javafx.base
+-Dfile.encoding=UTF-8
+-classpath
+"/Users/heethashasandeepkumar/Desktop/Further Programming/Assessment2/src:/Users/heethashasandeepkumar/Desktop/Further Programming/Assessment2/javafx-sdk-17.0.8/lib/javafx.base.jar:/Users/heethashasandeepkumar/Desktop/Further Programming/Assessment2/javafx-sdk-17.0.8/lib/javafx.controls.jar:/Users/heethashasandeepkumar/Desktop/Further Programming/Assessment2/javafx-sdk-17.0.8/lib/javafx.fxml.jar:/Users/heethashasandeepkumar/Desktop/Further Programming/Assessment2/javafx-sdk-17.0.8/lib/javafx.graphics.jar:/Users/heethashasandeepkumar/Desktop/Further Programming/Assessment2/javafx-sdk-17.0.8/lib/javafx.media.jar:/Users/heethashasandeepkumar/Desktop/Further Programming/Assessment2/javafx-sdk-17.0.8/lib/javafx.swing.jar:/Users/heethashasandeepkumar/Desktop/Further Programming/Assessment2/javafx-sdk-17.0.8/lib/javafx.web.jar:/Users/heethashasandeepkumar/Desktop/Further Programming/Assessment2/javafx-sdk-17.0.8/lib/javafx-swt.jar"
+-XX:+ShowCodeDetailsInExceptionMessages
+Driver
